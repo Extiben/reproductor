@@ -1,0 +1,8 @@
+spotipy
+yt-dlp
+pygame
+python-dotenv
+requests
+python-vlc
+customtkinter
+Pillow
